@@ -5,11 +5,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Dinesh L</h1>
 <h3 align="center">A passionate frontend developer from Karnataka , Inida</h3>
 
-- 🌱 I’m currently learning **React.js, Vue.js, Bootstrap**
+
 # 💫 About Me:
 - 👋 Hi, I’m Dinesh L
 - 👀 I’m interested in Developing Webpages
-- 🌱 I’m currently learning flutter ❤
+-  🌱 I’m currently learning **React.js, Vue.js, Bootstrap**
 - 👯 I’m looking forward to collaborate and participate in opensource community
 - ⚡ Fun fact: I love to play video games 🤔
 - 💬 Ask me about anything, i will be happy to help 
